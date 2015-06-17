@@ -1,0 +1,12 @@
+---
+title: "Index"
+author: "Manuel"
+date: "04/13/2015"
+output: html_document
+---
+
+# [Syllabus](syllabus.html)
+
+# Lessons
+
+  - [Lesson 1 (Categorical Data)](lecture1.html)
