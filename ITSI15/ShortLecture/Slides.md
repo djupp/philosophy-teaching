@@ -5,14 +5,14 @@
 
 # Choice Mechanisms
 
-## Democracy --- Voting: 
+## Democracy — Voting: 
 
 - Rare event
 - Choice between very few options
 - Mechanism of aggregation and impact obvious
 - Expectation of equal input
 
-## Markets --- Buying and Selling:
+## Markets — Buying and Selling:
 
 - Incredibly frequent events
 - Very diverse options
@@ -21,13 +21,16 @@
 
 --------------------
 
-![pizza](https://upload.wikimedia.org/wikipedia/commons/1/1c/Blondie's_pepperoni_pizza_slice.JPG)
-# Example --- Choosing Pizza
+# Example — Choosing Pizza
 
-- Go to the polls on: [](pollev.com/strongtemple442)
-....
+- Go to the polls on: [pollev.com/strongtemple442](pollev.com/strongtemple442)
+
+. . .
+
 - A democratic choice
-....
+
+. . .
+
 - Haggling
 
 ---------------------
@@ -39,3 +42,5 @@
     - Preliminary intuition: better is defined in completely different ways for the two systems. 
     - E.g. transparency vs. invisible hand
 - In how far are we actually interested in the choice aggregation properties of these systems?
+    - Markets are often justified with reference to consumer freedom, entrepreneurship, etc.
+    - Democracies by reference to equality, value of citizenship, etc.
